@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Indranil-karmakar/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Indranil-karmakar/DSA/tree/master/0169-majority-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Indranil-karmakar/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Indranil-karmakar/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Indranil-karmakar/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Indranil-karmakar/DSA/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Indranil-karmakar/DSA/tree/master/0169-majority-element) |
 | [2404-most-frequent-even-element](https://github.com/Indranil-karmakar/DSA/tree/master/2404-most-frequent-even-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Indranil-karmakar/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
