@@ -1,33 +1,30 @@
 class Solution {
 public:
     long long maxSubarraySum(vector<int>& nums, int k) {
-        unordered_map<int, long long> mp;
+        int n = nums.size();
+
+        vector<long long> minPrefix(k, LLONG_MAX);
 
         long long prefixSum = 0;
         long long ans = LLONG_MIN;
 
-        // prefix sum before array starts
-        mp[0] = 0;
+        // prefix sum before starting
+        minPrefix[0] = 0;
 
-        for (int i = 0; i < nums.size(); i++) {
+        for (int i = 0; i < n; i++) {
 
             prefixSum += nums[i];
 
             int rem = (i + 1) % k;
 
-            // If same remainder exists,
-            // length of subarray is divisible by k
-            if (mp.find(rem) != mp.end()) {
-                ans = max(ans, prefixSum - mp[rem]);
+            // If we have seen this remainder before,
+            // the length between them is divisible by k
+            if (minPrefix[rem] != LLONG_MAX) {
+                ans = max(ans, prefixSum - minPrefix[rem]);
             }
 
-            // Store minimum prefix sum for this remainder
-            if (mp.find(rem) == mp.end()) {
-                mp[rem] = prefixSum;
-            }
-            else {
-                mp[rem] = min(mp[rem], prefixSum);
-            }
+            // Store the minimum prefix sum for this remainder
+            minPrefix[rem] = min(minPrefix[rem], prefixSum);
         }
 
         return ans;
