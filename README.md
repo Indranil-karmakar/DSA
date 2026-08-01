@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Indranil-karmakar/DSA/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/Indranil-karmakar/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Indranil-karmakar/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Indranil-karmakar/DSA/tree/master/0056-merge-intervals) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Indranil-karmakar/DSA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Indranil-karmakar/DSA/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Indranil-karmakar/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Indranil-karmakar/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Indranil-karmakar/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Indranil-karmakar/DSA/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Indranil-karmakar/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
