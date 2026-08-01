@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Indranil-karmakar/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Indranil-karmakar/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Indranil-karmakar/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/Indranil-karmakar/DSA/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Stack
 |  |
 | ------- |
