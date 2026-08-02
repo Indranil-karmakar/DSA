@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Indranil-karmakar/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Indranil-karmakar/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Indranil-karmakar/DSA/tree/master/0229-majority-element-ii) |
+| [0290-word-pattern](https://github.com/Indranil-karmakar/DSA/tree/master/0290-word-pattern) |
 | [0523-continuous-subarray-sum](https://github.com/Indranil-karmakar/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Indranil-karmakar/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/Indranil-karmakar/DSA/tree/master/0697-degree-of-an-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Indranil-karmakar/DSA/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Indranil-karmakar/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Indranil-karmakar/DSA/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/Indranil-karmakar/DSA/tree/master/0290-word-pattern) |
 | [0459-repeated-substring-pattern](https://github.com/Indranil-karmakar/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Indranil-karmakar/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Indranil-karmakar/DSA/tree/master/1021-remove-outermost-parentheses) |
