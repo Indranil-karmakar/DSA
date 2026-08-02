@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Indranil-karmakar/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Indranil-karmakar/DSA/tree/master/0205-isomorphic-strings) |
 | [0459-repeated-substring-pattern](https://github.com/Indranil-karmakar/DSA/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/Indranil-karmakar/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Indranil-karmakar/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Indranil-karmakar/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Indranil-karmakar/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -154,4 +155,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Indranil-karmakar/DSA/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/Indranil-karmakar/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
