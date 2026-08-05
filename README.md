@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/Indranil-karmakar/DSA/tree/master/0890-find-and-replace-pattern) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Indranil-karmakar/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Indranil-karmakar/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Indranil-karmakar/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Indranil-karmakar/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2404-most-frequent-even-element](https://github.com/Indranil-karmakar/DSA/tree/master/2404-most-frequent-even-element) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Indranil-karmakar/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Indranil-karmakar/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Indranil-karmakar/DSA/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Indranil-karmakar/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Indranil-karmakar/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Indranil-karmakar/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2404-most-frequent-even-element](https://github.com/Indranil-karmakar/DSA/tree/master/2404-most-frequent-even-element) |
 ## Dynamic Programming
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/Indranil-karmakar/DSA/tree/master/0890-find-and-replace-pattern) |
 | [1021-remove-outermost-parentheses](https://github.com/Indranil-karmakar/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Indranil-karmakar/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Indranil-karmakar/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Indranil-karmakar/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Indranil-karmakar/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Indranil-karmakar/DSA/tree/master/2264-largest-3-same-digit-number-in-string) |
