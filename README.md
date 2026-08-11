@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Indranil-karmakar/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2404-most-frequent-even-element](https://github.com/Indranil-karmakar/DSA/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Indranil-karmakar/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Indranil-karmakar/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Indranil-karmakar/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Two Pointers
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Indranil-karmakar/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Indranil-karmakar/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2404-most-frequent-even-element](https://github.com/Indranil-karmakar/DSA/tree/master/2404-most-frequent-even-element) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Indranil-karmakar/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Indranil-karmakar/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Divide and Conquer
 |  |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Indranil-karmakar/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Indranil-karmakar/DSA/tree/master/2487-remove-nodes-from-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Indranil-karmakar/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
