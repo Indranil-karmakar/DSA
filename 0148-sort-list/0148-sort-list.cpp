@@ -26,7 +26,7 @@ public:
         while(l1 != NULL && l2 != NULL) {
             if(l1->val < l2->val) {
                 temp->next = l1;
-                temp = l1;
+                temp = l1;//move the temp;
                 l1 = l1->next;
             }
             else{
