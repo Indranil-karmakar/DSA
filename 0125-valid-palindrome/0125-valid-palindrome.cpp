@@ -1,27 +1,23 @@
 class Solution {
 public:
-    bool isAlphanum(char ch) {
-    if ((ch >= '0' && ch <= '9') ||
-        (tolower(ch) >= 'a' && tolower(ch) <= 'z')) {
-        return true;
-    }
-    return false;
-    }
-
     bool isPalindrome(string s) {
-         int st = 0, end = s.length() - 1;
-         while(st < end) {
-            if(!isAlphanum(s[st])) {
-                st++; continue;
+        int left = 0;
+        int right = s.length()-1;
+        while(left < right) {
+            while(left < right && !isalnum(s[left])) {
+                left++;
+
             }
-            if(!isAlphanum(s[end])) {
-                end --; continue;
+            while(left < right && !isalnum(s[right])) {
+                right--;
             }
-            if(tolower(s[st]) != tolower(s[end])) {
+            if(tolower(s[left]) != tolower(s[right])) {
                 return false;
             }
-            st++; end--;
-         }
-         return true;
+            left++;
+            right--;
+
+        }
+        return true;
     }
 };
