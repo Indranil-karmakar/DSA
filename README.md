@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Indranil-karmakar/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Indranil-karmakar/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Indranil-karmakar/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Indranil-karmakar/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/Indranil-karmakar/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Indranil-karmakar/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Indranil-karmakar/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Indranil-karmakar/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Indranil-karmakar/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Indranil-karmakar/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Indranil-karmakar/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Indranil-karmakar/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Bit Manipulation
 |  |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Indranil-karmakar/DSA/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Indranil-karmakar/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Indranil-karmakar/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Z Algorithm
 |  |
 | ------- |
