@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Indranil-karmakar/DSA/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Indranil-karmakar/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0890-find-and-replace-pattern](https://github.com/Indranil-karmakar/DSA/tree/master/0890-find-and-replace-pattern) |
+| [0904-fruit-into-baskets](https://github.com/Indranil-karmakar/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Indranil-karmakar/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Indranil-karmakar/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Indranil-karmakar/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Indranil-karmakar/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/Indranil-karmakar/DSA/tree/master/0697-degree-of-an-array) |
 | [0890-find-and-replace-pattern](https://github.com/Indranil-karmakar/DSA/tree/master/0890-find-and-replace-pattern) |
+| [0904-fruit-into-baskets](https://github.com/Indranil-karmakar/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Indranil-karmakar/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Indranil-karmakar/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Indranil-karmakar/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Indranil-karmakar/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Indranil-karmakar/DSA/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Indranil-karmakar/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/Indranil-karmakar/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Indranil-karmakar/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Indranil-karmakar/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Z Algorithm
