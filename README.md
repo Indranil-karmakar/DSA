@@ -420,4 +420,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Indranil-karmakar/DSA/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Indranil-karmakar/DSA/tree/master/0176-second-highest-salary) |
 | [0577-employee-bonus](https://github.com/Indranil-karmakar/DSA/tree/master/0577-employee-bonus) |
+| [1193-monthly-transactions-i](https://github.com/Indranil-karmakar/DSA/tree/master/1193-monthly-transactions-i) |
 <!---LeetCode Topics End-->
