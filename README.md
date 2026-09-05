@@ -432,4 +432,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-monthly-transactions-i](https://github.com/Indranil-karmakar/DSA/tree/master/1193-monthly-transactions-i) |
 | [1407-top-travellers](https://github.com/Indranil-karmakar/DSA/tree/master/1407-top-travellers) |
 | [1890-the-latest-login-in-2020](https://github.com/Indranil-karmakar/DSA/tree/master/1890-the-latest-login-in-2020) |
+| [3436-find-valid-emails](https://github.com/Indranil-karmakar/DSA/tree/master/3436-find-valid-emails) |
 <!---LeetCode Topics End-->
