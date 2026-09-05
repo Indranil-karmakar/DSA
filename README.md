@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Indranil-karmakar/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Indranil-karmakar/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Indranil-karmakar/DSA/tree/master/0085-maximal-rectangle) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Indranil-karmakar/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Indranil-karmakar/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Indranil-karmakar/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Indranil-karmakar/DSA/tree/master/0232-implement-queue-using-stacks) |
@@ -433,4 +434,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-top-travellers](https://github.com/Indranil-karmakar/DSA/tree/master/1407-top-travellers) |
 | [1890-the-latest-login-in-2020](https://github.com/Indranil-karmakar/DSA/tree/master/1890-the-latest-login-in-2020) |
 | [3436-find-valid-emails](https://github.com/Indranil-karmakar/DSA/tree/master/3436-find-valid-emails) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Indranil-karmakar/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Indranil-karmakar/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Indranil-karmakar/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
