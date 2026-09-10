@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Indranil-karmakar/DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Indranil-karmakar/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Indranil-karmakar/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/Indranil-karmakar/DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Indranil-karmakar/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Indranil-karmakar/DSA/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Indranil-karmakar/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Indranil-karmakar/DSA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Indranil-karmakar/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Indranil-karmakar/DSA/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/Indranil-karmakar/DSA/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Indranil-karmakar/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Indranil-karmakar/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Indranil-karmakar/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Indranil-karmakar/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Indranil-karmakar/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Indranil-karmakar/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/Indranil-karmakar/DSA/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Indranil-karmakar/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Indranil-karmakar/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Indranil-karmakar/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Indranil-karmakar/DSA/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/Indranil-karmakar/DSA/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/Indranil-karmakar/DSA/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/Indranil-karmakar/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -591,4 +595,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Indranil-karmakar/DSA/tree/master/0173-binary-search-tree-iterator) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Indranil-karmakar/DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
