@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Indranil-karmakar/DSA/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Indranil-karmakar/DSA/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Indranil-karmakar/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/Indranil-karmakar/DSA/tree/master/0860-lemonade-change) |
 | [0890-find-and-replace-pattern](https://github.com/Indranil-karmakar/DSA/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/Indranil-karmakar/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Indranil-karmakar/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Indranil-karmakar/DSA/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/Indranil-karmakar/DSA/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Indranil-karmakar/DSA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Indranil-karmakar/DSA/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Indranil-karmakar/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
