@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Indranil-karmakar/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Indranil-karmakar/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Indranil-karmakar/DSA/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Indranil-karmakar/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Indranil-karmakar/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Indranil-karmakar/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Math
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Indranil-karmakar/DSA/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Indranil-karmakar/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Indranil-karmakar/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Indranil-karmakar/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Indranil-karmakar/DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Indranil-karmakar/DSA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Indranil-karmakar/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Indranil-karmakar/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Indranil-karmakar/DSA/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
@@ -612,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Indranil-karmakar/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Indranil-karmakar/DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Indranil-karmakar/DSA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Indranil-karmakar/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Indranil-karmakar/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Indranil-karmakar/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Indranil-karmakar/DSA/tree/master/1020-number-of-enclaves) |
@@ -658,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Indranil-karmakar/DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Indranil-karmakar/DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Indranil-karmakar/DSA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Indranil-karmakar/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Indranil-karmakar/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Graph Coloring
 |  |
@@ -680,4 +685,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Indranil-karmakar/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Indranil-karmakar/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
