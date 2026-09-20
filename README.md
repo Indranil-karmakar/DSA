@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Indranil-karmakar/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Indranil-karmakar/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Indranil-karmakar/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Indranil-karmakar/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2104-sum-of-subarray-ranges](https://github.com/Indranil-karmakar/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Indranil-karmakar/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Indranil-karmakar/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Indranil-karmakar/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Indranil-karmakar/DSA/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/Indranil-karmakar/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Indranil-karmakar/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Math
 |  |
 | ------- |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Indranil-karmakar/DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Indranil-karmakar/DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Indranil-karmakar/DSA/tree/master/0785-is-graph-bipartite) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Indranil-karmakar/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -673,4 +676,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Indranil-karmakar/DSA/tree/master/0207-course-schedule) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Indranil-karmakar/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 <!---LeetCode Topics End-->
