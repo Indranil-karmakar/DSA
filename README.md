@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Indranil-karmakar/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Indranil-karmakar/DSA/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Indranil-karmakar/DSA/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Indranil-karmakar/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Indranil-karmakar/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Indranil-karmakar/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Indranil-karmakar/DSA/tree/master/0239-sliding-window-maximum) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Indranil-karmakar/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/Indranil-karmakar/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Indranil-karmakar/DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Indranil-karmakar/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Indranil-karmakar/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Indranil-karmakar/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Indranil-karmakar/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Indranil-karmakar/DSA/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Indranil-karmakar/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Indranil-karmakar/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Indranil-karmakar/DSA/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/Indranil-karmakar/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Indranil-karmakar/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Indranil-karmakar/DSA/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Indranil-karmakar/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Indranil-karmakar/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -689,4 +693,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Indranil-karmakar/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Indranil-karmakar/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
